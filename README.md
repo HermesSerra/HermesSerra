@@ -1,5 +1,5 @@
-## Olá, me chamo Hermes Renato Serra 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=FFC107&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=388E3C&random=false&width=700&font_size=40&lines=Olá+me+chamo+Hermes,+bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
 
 
 ## 📊 GitHub Stats:
