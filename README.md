@@ -1,5 +1,5 @@
-## Olá, me chamo Hermes Renato Serra 👋
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+## Olá, me chamo Hermes Renato Serra 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=388E3C&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **HermesSerra/HermesSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
