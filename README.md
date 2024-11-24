@@ -2,6 +2,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=FFC107&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
+## 📊 GitHub Stats:
+ 
+
+<div>
+<a href="https://github.com/HermesSerra?tab=repositories">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesSerra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **HermesSerra/HermesSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
